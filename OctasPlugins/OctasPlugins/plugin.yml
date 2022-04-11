@@ -1,0 +1,11 @@
+name: OctasPlugins
+main: io.github.octablast.OctasPlugins.Plugin1
+version: 1.0
+author: Octablast
+commands:
+  cube:
+    description: This  kills a cube.
+    usage: /<command> size
+  tower:
+    description: Take the high ground!
+    usage: /<command>
